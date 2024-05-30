@@ -12,11 +12,11 @@ Steps:
 
 📊 Building the Dashboard:
 Report Views:
-- 📌 Finance View: Dynamic P&L table with DAX queries
-- 📌 Sales View: Decoded customer and product performances
-- 📌 Marketing View: Focused on product-based data
-- 📌 Supply Chain View: Monitor inventory forecasts and net error
-- 📌 Executive View: Strategic insights from consolidated reports
+- 📌 Finance View: Dynamic P&L table with DAX queries (https://github.com/sneharawale/Business-Insights-360/blob/main/finance%20view.png)
+- 📌 Sales View: Decoded customer and product performances. (https://github.com/sneharawale/Business-Insights-360/blob/main/sales%20view.png)
+- 📌 Marketing View: Focused on product-based data.(https://github.com/sneharawale/Business-Insights-360/blob/main/marketing%20view.png)
+- 📌 Supply Chain View: Monitor inventory forecasts and net error.(https://github.com/sneharawale/Business-Insights-360/blob/main/supply%20chain%20view.png)
+- 📌 Executive View: Strategic insights from consolidated reports.(https://github.com/sneharawale/Business-Insights-360/blob/main/executive%20view.png)
 
 📈 Financial Highlights:
 - ▶ 2020: Sales surged by 140.61%, but net profit fell by 193%.
